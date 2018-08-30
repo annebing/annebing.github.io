@@ -1,2 +1,0 @@
-# annebing.github.io
-Hexo
